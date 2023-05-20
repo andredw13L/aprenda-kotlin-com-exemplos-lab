@@ -1,5 +1,3 @@
-// [Template no Kotlin Playground](https://pl.kotl.in/WcteahpyN)
-
 import java.time.LocalDate;
 
 
